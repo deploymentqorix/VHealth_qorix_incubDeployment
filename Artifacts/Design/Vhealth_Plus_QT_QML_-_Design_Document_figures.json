@@ -1,0 +1,15 @@
+{
+  "title": "Vhealth Plus QT QML - Design Document",
+  "author": "Abhishek Chauhan",
+  "figures": [
+    "BackgroundPulse.png",
+    "Gauge.qml.drawio.png",
+    "GlowNeedleMaterial.drawio.png",
+    "HUDOverlay.drawio.png",
+    "MusicWidgetdrawio.drawio.png",
+    "NeedleEntity.drawio.png",
+    "RedlineShaderEffect.drawio.png",
+    "Telemetry3DController.drawio.png",
+    "VHealthDashboard.drawio.png"
+  ]
+}
